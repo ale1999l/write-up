@@ -111,4 +111,5 @@ Then, to correct the errors, I realized I had to follow a specific sequence unti
 - Decompressing bzip2 files using  ` bunzip2 `
 - Extracting tar archives using  ` tar -xf `
 ## Result:
-I founded the password by converting the hexadecimal dump into binary repeatedly identifying and decompressing the files.
+I founded the password by converting the hexadecimal dump into binary repeatedly identifying and decompressing the files. 
+This process demonstrated using the correct commands and order is important to extract hidden information.
